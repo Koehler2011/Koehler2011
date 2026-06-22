@@ -4,6 +4,26 @@
 # 💫 About Me:
 - 🔭 Estou trabalhando atualmente com: nada<br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: ---<br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br>
 
+<h1 align="center"> 💳 Certificados</h1>
+
+<div align="center">
+
+<a href="link">
+    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
+</a>
+
+<a href="link">
+    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
+</a>
+
+<a href="link">
+    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
+</a>
+
+<a href="link">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
+</a>
+</div>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
