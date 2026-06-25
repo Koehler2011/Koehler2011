@@ -15,24 +15,6 @@
 
 <div align="center">
 
-<a href="link">
-    <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
-</a>
-
-<a href="link">
-    <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
-</a>
-
-<a href="">
-    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
-</a>
-
-<a href="link">
-    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
-</a>
-
-<br>
-
   <a href="link">
     <img src="certificados/ibm-skillsbuild-adconcluído.png" alt="Certificado Concluído 1" width="220">
 </a>
