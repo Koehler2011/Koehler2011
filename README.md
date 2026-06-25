@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Eduardo%20Koehler&fontSize=40&fontColor=ffffff&animation=fadeIn&color=timeGradient"
+    src="https://capsule-render.vercel.app/api?type=waving&color=5F489C&height=180&section=header&text=Eduardo%20Koehler&fontSize=40&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
