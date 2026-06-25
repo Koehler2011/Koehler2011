@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=#5F489C,100:2563eb&height=180&section=header&text=Eduardo%20Koehler&fontSize=40&fontColor=ffffff&animation=fadeIn"
-    width="1000%"
+    width="100000%"
     style="display:block;"
   />
 </p>
