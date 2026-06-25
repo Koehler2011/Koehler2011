@@ -27,7 +27,7 @@
     <img src="certificados/ibm-skillsbuild-iwconcluído.png" alt="Certificado Concluído 3" width="220">
 </a>
 
-<a href="link">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/0482708a0bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9714c688185-10">
     <img src="certificados/ibm-skillsbuild-pticconcluído.png" alt="Certificado Concluído 4" width="220">
 </a>
 </div>
