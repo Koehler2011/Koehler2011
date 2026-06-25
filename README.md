@@ -28,7 +28,7 @@
 </a>
 
 <a href="link">
-    <img src="certificados/ibm-skillsbuild-ptic.png.pdf" alt="Certificado 4" width="220">
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
 </a>
 </div>
 
