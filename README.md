@@ -17,8 +17,7 @@
 </a>
 
 <a href="link">
-    <img src="certificados/ibm-skillsbuild-iw.pdf
-" alt="Certificado 3" width="220">
+    <img src="certificados/ibm-skillsbuild-iw.pdf" alt="Certificado 3" width="220">
 </a>
 
 <a href="link">
