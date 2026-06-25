@@ -16,7 +16,7 @@
     <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
 </a>
 
-<a href="https://www.credly.com/badges/e253c16e-31a0-4ce8-ba71-be2498ad80df">
+<a href="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e253c16e-31a0-4ce8-ba71-be2498ad80df" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>">
     <img src="certificados/ibm-skillsbuild-iw.pdf" alt="Certificado 3" width="220">
 </a>
 
