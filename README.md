@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <a href="link">
+  <a href="https://skills.yourlearning.ibm.com/certificate/share/67b9949e2aewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp974ee412607-10">
     <img src="certificados/ibm-skillsbuild-adconcluído.png" alt="Certificado Concluído 1" width="220">
 </a>
 
