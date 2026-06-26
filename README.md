@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-- 🔭 Estou trabalhando atualmente com: nada<br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: ---<br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br>
+- 🔭 Estou trabalhando atualmente com: <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br>
 
 <h1 align="center"> 💳 Emblemas/Certificados</h1>
 
