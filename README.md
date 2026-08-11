@@ -37,14 +37,14 @@
 <div align="center">
 
 <a href="https://github.com/dudugigi2026-max">
-  <img src="https://github.com/dudugigi2026-max.png" width="35">
+  <img src="https://github.com/dudugigi2026-max.png" width="70">
   <strong>Dupla</strong>
 </a>
 
 <br>
 
 <a href="https://github.com/EduDaviJoaoGigi">
-  <img src="https://github.com/EduDaviJoaoGigi.png" width="35">
+  <img src="https://github.com/EduDaviJoaoGigi.png" width="70">
   <strong>Quarteto</strong>
 </a>
 
