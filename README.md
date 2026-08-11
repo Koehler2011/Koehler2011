@@ -32,4 +32,11 @@
 </a>
 </div>
 
+## Grupos em que Participo
+
+<div aling="center">
+  
+</div>
+
+## "Jogo da Cobrinha"
 ![snake gif](https://github.com/Koehler2011/Koehler2011/blob/output/github-snake-dark.svg)
