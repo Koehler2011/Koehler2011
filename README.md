@@ -37,6 +37,7 @@
 <div aling="center">
   
 </div>
-
-## "Jogo da Cobrinha"
+<div aling="center>
+## "Jogo da Cobrinha"</div>
 ![snake gif](https://github.com/Koehler2011/Koehler2011/blob/output/github-snake-dark.svg)
+
