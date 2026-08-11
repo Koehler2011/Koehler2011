@@ -32,10 +32,23 @@
 </a>
 </div>
 
-## Grupos em que Participo
-<a href="https://github.com/dudugigi2026-max">Dupla</a>
-<a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
-<div aling="center">
+<h2>Grupos em que Participo</h2>
+
+<div align="center">
+
+<a href="https://github.com/dudugigi2026-max">
+  <img src="https://github.com/dudugigi2026-max.png" width="35">
+  <strong>Dupla</strong>
+</a>
+
+<br>
+
+<a href="https://github.com/EduDaviJoaoGigi">
+  <img src="https://github.com/EduDaviJoaoGigi.png" width="35">
+  <strong>Quarteto</strong>
+</a>
+
+</div>
   
 ## "Jogo da Cobrinha"
 ![snake gif](https://github.com/Koehler2011/Koehler2011/blob/output/github-snake-dark.svg)
