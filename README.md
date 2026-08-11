@@ -33,7 +33,8 @@
 </div>
 
 ## Grupos em que Participo
-
+<a href="https://github.com/dudugigi2026-max">Dupla</a>
+<a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
 <div aling="center">
   
 ## "Jogo da Cobrinha"
