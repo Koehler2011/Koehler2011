@@ -65,7 +65,7 @@
 </table>
 
 </div>
-  
+  <hr />
 <h2 align="center">Jogo da Cobrinha</h2>
 
 <p align="center">
