@@ -32,7 +32,7 @@
 </a>
 </div>
 <hr />
-<h2 align="center">👥 Grupos em que Participo</h2>
+<h1 align="center">👥 Grupos em que Participo</h1>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 </div>
   <hr />
-<h2 align="center"> 🐍 "Jogo da Cobrinha"</h2>
+<h1 align="center"> 🐍 "Jogo da Cobrinha"</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/output/github-snake-dark.svg" alt="Snake animation">
