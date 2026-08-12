@@ -37,15 +37,17 @@
 <div align="center">
 
 <a href="https://github.com/dudugigi2026-max">
-  <img src="https://github.com/dudugigi2026-max.png" width="70">
-  <strong>Dupla</strong>
+  <img src="https://github.com/dudugigi2026-max.png" width="60">
+  <br>
+  <strong><font size="5">Dupla</font></strong>
 </a>
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/EduDaviJoaoGigi">
-  <img src="https://github.com/EduDaviJoaoGigi.png" width="70">
-  <strong>Quarteto</strong>
+  <img src="https://github.com/EduDaviJoaoGigi.png" width="60">
+  <br>
+  <strong><font size="5">Quarteto</font></strong>
 </a>
 
 </div>
