@@ -40,12 +40,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/dudugigi2026-max">
-        <img src="https://github.com/dudugigi2026-max.png" width="60">
+        <img src="https://github.com/dudugigi2026-max.png" width="85">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/EduDaviJoaoGigi">
-        <img src="https://github.com/EduDaviJoaoGigi.png" width="60">
+        <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
       </a>
     </td>
   </tr>
@@ -53,12 +53,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/dudugigi2026-max">
-        <strong>Dupla</strong>
+        <h3>Dupla</h3>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/EduDaviJoaoGigi">
-        <strong>Quarteto</strong>
+        <h3>Quarteto</h3>
       </a>
     </td>
   </tr>
