@@ -8,7 +8,7 @@
 ## Oi, eu me chamo Eduardo Koehler, nasci em 2011, e estou cursando infonet na ETECVAV! 👋
 
 
-# 💫 Sobre mim:
+<h1 align="center">Sobre Mim</h1>
 - 🔭 Estou trabalhando atualmente com: <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br>
 
 <h1 align="center"> 💳 Emblemas/Certificados</h1>
