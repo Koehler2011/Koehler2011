@@ -32,7 +32,7 @@
 </a>
 </div>
 <hr />
-<h2 align="center">Grupos em que Participo</h2>
+<h2 align="center">👥 Grupos em que Participo</h2>
 
 <div align="center">
 
