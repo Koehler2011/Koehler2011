@@ -34,25 +34,37 @@
 
 <h2 align="center">Grupos em que Participo</h2>
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/dudugigi2026-max">
-        <img src="https://github.com/dudugigi2026-max.png" width="70">
-        <br>
-        <font size="5"><strong>Dupla</strong></font>
+        <img src="https://github.com/dudugigi2026-max.png" width="60">
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/EduDaviJoaoGigi">
-        <img src="https://github.com/EduDaviJoaoGigi.png" width="70">
-        <br>
-        <font size="5"><strong>Quarteto</strong></font>
+        <img src="https://github.com/EduDaviJoaoGigi.png" width="60">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dudugigi2026-max">
+        <strong>Dupla</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EduDaviJoaoGigi">
+        <strong>Quarteto</strong>
       </a>
     </td>
   </tr>
 </table>
+
+</div>
   
 ## "Jogo da Cobrinha"
 ![snake gif](https://github.com/Koehler2011/Koehler2011/blob/output/github-snake-dark.svg)
