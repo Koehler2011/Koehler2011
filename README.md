@@ -31,7 +31,7 @@
     <img src="certificados/ibm-skillsbuild-pticconcluído.png" alt="Certificado Concluído 4" width="220">
 </a>
 </div>
-
+<hr />
 <h2 align="center">Grupos em que Participo</h2>
 
 <div align="center">
