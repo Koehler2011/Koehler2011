@@ -5,7 +5,7 @@
   />
 </p>
 
-## Oi, eu me chamo Eduardo Koehler, nasci em 2011, e estou cursando infonet na ETECVAV! 👋
+## Oi, eu me chamo Eduardo Koehler, nasci em 2011, e estou cursando informática para Internet na ETECVAV! 👋
 
 
 <h1 align="center">Sobre Mim</h1>
