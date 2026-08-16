@@ -48,14 +48,10 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/dudugigi2026-max">
-        <h3>Dupla</h3>
-      </a>
+      <a href="https://github.com/dudugigi2026-max">Dupla</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EduDaviJoaoGigi">
-        <h3>Quarteto</h3>
-      </a>
+      <a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
     </td>
   </tr>
 </table>
