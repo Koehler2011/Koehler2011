@@ -39,14 +39,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/dudugigi2026-max">
-        <img src="https://github.com/dudugigi2026-max.png" width="85">
-      </a>
+      <img src="https://github.com/dudugigi2026-max.png" width="85">
     </td>
     <td align="center">
-      <a href="https://github.com/EduDaviJoaoGigi">
-        <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
-      </a>
+      <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
     </td>
   </tr>
 
