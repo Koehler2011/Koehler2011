@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Sobre Mim</h1>
-<div align="center">- 🔭 Estou trabalhando atualmente com: Sem emprego <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: O que você quiser <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br></div>
+<div align="center">- 🔭 Estou trabalhando atualmente com: Sem emprego <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: O que você quiser <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br></div> <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
