@@ -135,58 +135,6 @@ Quarteto
 
 ---
 
-<h2 align="center" id="projetos">🚀 Projetos</h2>
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-<h3>💻 Projeto 1</h3>
-
-<p>Descrição breve do projeto.</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🌱 Projeto 2</h3>
-
-<p>Descrição breve do projeto.</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🎮 Projeto 3</h3>
-
-<p>Descrição breve do projeto.</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 <h2 align="center">📊 GitHub</h2>
 
 <div align="center">
