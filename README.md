@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Koehler2011/KOehler2011/main/banner.png" width="100%">
 
+</div>
+
 # **Eduardo Koehler**
 
 
