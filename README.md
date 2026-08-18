@@ -164,8 +164,8 @@ Descrição breve do projeto.
 | Tecnologia | Nível |
 |:---:|:---:|
 | HTML | ⭐⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
+| CSS | ⭐⭐ |
+| JavaScript | ⭐ |
 | Python | ⭐⭐⭐ |
 | Git | ⭐⭐⭐⭐ |
 
@@ -177,11 +177,11 @@ Descrição breve do projeto.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Koehler2011&show_icons=true&theme=dark&hide_border=true">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOehler2011&layout=compact&theme=dark&hide_border=true">
 
 </div>
 
@@ -200,11 +200,11 @@ Descrição breve do projeto.
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/💻%20Programação-007BFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Interfaces e Web 1-007BFF?style=for-the-badge">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/🌐%20Desenvolvimento%20Web-007BFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻%20Programação e Algoritmos%20Web-007BFF?style=for-the-badge">
 </a>
 
 </div>
@@ -237,6 +237,6 @@ Descrição breve do projeto.
 
 <br><br>
 
-**© 2026 SEU NOME**
+**© 2026 Eduardo Koehler**
 
 </div>
