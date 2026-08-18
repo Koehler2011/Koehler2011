@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Eduardo Koehler
 
-### 💻 Desenvolvedor Web
+### 💻 Estudante de Informática
 
 <p>
 Curso Informática para Internet na ETECVAV.<br>
