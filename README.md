@@ -184,11 +184,11 @@ Me esforço ao máximo!
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Koehler2011&show_icons=true&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Koehler2011&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koehler2011&layout=compact&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koehler2011&layout=compact&theme=dark&hide_border=true&cache_seconds=1800">
 
 </div>
 
