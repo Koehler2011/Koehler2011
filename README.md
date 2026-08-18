@@ -61,7 +61,7 @@ Me esforço ao máximo!
 
 | Tecnologia | Nível |
 |:---:|:---:|
-| HTML | ⭐⭐⭐⭐⭐ |
+| HTML | ⭐⭐⭐⭐ |
 | CSS | ⭐⭐ |
 | C++ | ⭐⭐⭐ |
 | JavaScript | ⭐ |
