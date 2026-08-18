@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Koehler2011/KOehler2011/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Koehler2011/KOehler2011/main/fundo.png" width="100%">
 
 <h1>👋 Olá, eu sou Eduardo Koehler!</h1>
 
