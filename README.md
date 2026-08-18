@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/main/banner.png" width="100%">
 
 # 👋 Olá, eu sou
 
