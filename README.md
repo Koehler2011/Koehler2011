@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Koehler2011/KOehler2011/main/fundo.png" width="100%">
+<img src="fundo.png" width="100%">
 
-<h1>👋 Olá, eu sou Eduardo Koehler!</h1>
+# 👋 Olá, eu sou Eduardo Koehler
 
-<h3>💻 Desenvolvedor Web</h3>
+### 💻 Desenvolvedor Web
 
 <p>
 Curso Informática para Internet na ETECVAV.<br>
 Apaixonado por tecnologia e programação.<br>
-Estou sempre aprendendo coisas novas.
+Crio soluções web modernas e eficientes.
 </p>
 
 <a href="#projetos">
@@ -40,15 +40,10 @@ Estou sempre aprendendo coisas novas.
 </div>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
-
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
-
 <img src="https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white">
-
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black">
-
 </p>
 
 ---
@@ -85,27 +80,15 @@ Estou sempre aprendendo coisas novas.
 <tr>
 
 <td align="center">
-
 <img src="https://github.com/dudugigi2026-max.png" width="85">
-
 <br>
-
-<a href="https://github.com/dudugigi2026-max">
-Dupla
-</a>
-
+<a href="https://github.com/dudugigi2026-max">Dupla</a>
 </td>
 
 <td align="center">
-
 <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
-
 <br>
-
-<a href="https://github.com/EduDaviJoaoGigi">
-Quarteto
-</a>
-
+<a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
 </td>
 
 </tr>
@@ -120,7 +103,6 @@ Quarteto
 <div align="center">
 
 <table>
-
 <tr>
 
 <td align="center" width="33%">
@@ -160,7 +142,6 @@ Quarteto
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -245,7 +226,7 @@ Quarteto
 
 ---
 
-<h1 align="center">🐍 "Jogo da Cobrinha"</h1>
+<h1 align="center">🐍 Jogo da Cobrinha</h1>
 
 <p align="center">
 
