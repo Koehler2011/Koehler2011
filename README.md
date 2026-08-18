@@ -1,40 +1,4 @@
 
-<h1 align="center">👥 Grupos em que Participo</h1>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/dudugigi2026-max.png" width="85">
-    </td>
-    <td align="center">
-      <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dudugigi2026-max">Dupla</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
-    </td>
-  </tr>
-</table>
-
-</div>
-  <hr />
-<h1 align="center"> 🐍 "Jogo da Cobrinha"</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/output/github-snake-dark.svg" alt="Snake animation">
-</p>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/main/banner.png" width="100%">
-
 # **Eduardo Koehler**
 
 
@@ -99,7 +63,32 @@ Crio soluções web modernas e eficientes.
 </a>
 </div>
 <hr />
----
+
+<h1 align="center">👥 Grupos em que Participo</h1>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dudugigi2026-max.png" width="85">
+    </td>
+    <td align="center">
+      <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
+    </td>
+  </tr>
+
+ <tr>
+    <td align="center">
+      <a href="https://github.com/dudugigi2026-max">Dupla</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
+    </td>
+  </tr>
+</table>
+</div>
+  <hr />
 
 <h2 align="center">🚀 Projetos</h2>
 
@@ -228,6 +217,18 @@ Descrição breve do projeto.
 </div>
 
 ---
+
+<h1 align="center"> 🐍 "Jogo da Cobrinha"</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/output/github-snake-dark.svg" alt="Snake animation">
+</p>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/main/banner.png" width="100%">
+
+</hr>
 
 <div align="center">
 
