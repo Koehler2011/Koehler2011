@@ -1,9 +1,3 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=5F489C&height=180&section=header&text=Eduardo%20Koehler&fontSize=40&fontColor=ffffff&animation=fadeIn"
-    width="100%"
-  />
-</p>
 
 ## Oi, eu me chamo Eduardo Koehler, nasci em 2011, e estou cursando Informática para Internet na ETECVAV! 👋
 
@@ -77,7 +71,7 @@
 
 # 👋 Olá, eu sou
 
-# **SEU NOME**
+# **Eduardo Koehler**
 
 ### 💻 Desenvolvedor Web
 
