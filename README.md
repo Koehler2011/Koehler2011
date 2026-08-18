@@ -1,10 +1,4 @@
 
-## Oi, eu me chamo Eduardo Koehler, nasci em 2011, e estou cursando Informática para Internet na ETECVAV! 👋
-
-
-<h1 align="center">Sobre Mim</h1>
-<div align="center">- 🔭 Estou trabalhando atualmente com: Sem emprego <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: O que você quiser <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br></div> <br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
@@ -69,9 +63,10 @@
 
 <img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/main/banner.png" width="100%">
 
-# 👋 Olá, eu sou
-
 # **Eduardo Koehler**
+
+
+# 👋 Olá, eu curso Informática para Internet na ETECVAV
 
 ### 💻 Desenvolvedor Web
 
@@ -98,6 +93,13 @@ Crio soluções web modernas e eficientes.
 
 <p>
 🔭 Estou trabalhando atualmente com: Sem emprego <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: O que você quiser <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br></div> <br>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black">
 </p>
 
 </div>
