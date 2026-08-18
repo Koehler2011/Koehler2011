@@ -152,7 +152,7 @@ Me esforço ao máximo!
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode">
+<img src="https://skillicons.dev/icons?i=html,css,cpp,js,python,gimp,github">
 
 </div>
 
@@ -164,9 +164,11 @@ Me esforço ao máximo!
 |:---:|:---:|
 | HTML | ⭐⭐⭐⭐⭐ |
 | CSS | ⭐⭐ |
+| C++ | ⭐⭐⭐ |
 | JavaScript | ⭐ |
 | Python | ⭐⭐⭐ |
-| Git | ⭐⭐⭐⭐ |
+| GIMP | ⭐⭐⭐ |
+| GitHub | ⭐⭐⭐⭐ |
 
 </div>
 
