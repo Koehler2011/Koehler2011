@@ -97,11 +97,7 @@ Crio soluções web modernas e eficientes.
 <div align="center">
 
 <p>
-Sou estudante de programação e desenvolvedor web.
-<br>
-Gosto de transformar ideias em projetos reais
-<br>
-e estou sempre aprendendo algo novo.
+🔭 Estou trabalhando atualmente com: Sem emprego <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: O que você quiser <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br></div> <br>
 </p>
 
 </div>
