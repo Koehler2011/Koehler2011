@@ -8,8 +8,8 @@
 
 <p>
 Curso Informática para Internet na ETECVAV.<br>
-Apaixonado por tecnologia e programação.<br>
-Crio soluções web modernas e eficientes.
+Aprendendo sobre tecnologia e programação.<br>
+Me esforço ao máximo!
 </p>
 
 <a href="#projetos">
