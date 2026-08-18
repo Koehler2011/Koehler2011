@@ -2,18 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Koehler2011/KOehler2011/main/banner.png" width="100%">
 
-</div>
+<h1>👋 Olá, eu sou Eduardo Koehler!</h1>
 
-# **Eduardo Koehler**
-
-
-# 👋 Olá, eu curso Informática para Internet na ETECVAV
-
-### 💻 Desenvolvedor Web
+<h3>💻 Desenvolvedor Web</h3>
 
 <p>
+Curso Informática para Internet na ETECVAV.<br>
 Apaixonado por tecnologia e programação.<br>
-Crio soluções web modernas e eficientes.
+Estou sempre aprendendo coisas novas.
 </p>
 
 <a href="#projetos">
@@ -33,92 +29,105 @@ Crio soluções web modernas e eficientes.
 <div align="center">
 
 <p>
-🔭 Estou trabalhando atualmente com: Sem emprego <br>- 🌱 Estou aprendendo informática para internet na etecvav<br>- 🤔 Tiro minhas dúvidas com meus professores<br>- 💬 Me pergunte sobre: O que você quiser <br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidades: Gosto de sertanejo<br></div>
+🔭 Estou trabalhando atualmente com: Sem emprego<br>
+🌱 Estou aprendendo Informática para Internet na ETECVAV<br>
+🤔 Tiro minhas dúvidas com meus professores<br>
+💬 Me pergunte sobre: O que você quiser<br>
+😄 Pronomes: ele/dele<br>
+⚡ Curiosidade: Gosto de sertanejo
 </p>
 
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black">
+
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black">
+
 </p>
+
+---
+
+<h1 align="center">💳 Emblemas / Certificados</h1>
+
+<div align="center">
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/67b9949e2aewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp974ee412607-10">
+<img src="certificados/ibm-skillsbuild-adconcluído.png" alt="Certificado 1" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/68c628b108ewogICJsZWFybmVyQ05VTSIgOiAiODA2NDUwOFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMTRGMjY5MUUzQTMyIgp9210075f3cd-10">
+<img src="certificados/ibm-skillsbuild-bdconcluído.png" alt="Certificado 2" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/b5651a99beewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9f55c3efc66-10">
+<img src="certificados/ibm-skillsbuild-iwconcluído.png" alt="Certificado 3" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/0482708a0bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9714c688185-10">
+<img src="certificados/ibm-skillsbuild-pticconcluído.png" alt="Certificado 4" width="220">
+</a>
 
 </div>
 
 ---
-
-<h1 align="center"> 💳 Emblemas/Certificados</h1>
-
-<div align="center">
-
-  <a href="https://skills.yourlearning.ibm.com/certificate/share/67b9949e2aewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp974ee412607-10">
-    <img src="certificados/ibm-skillsbuild-adconcluído.png" alt="Certificado Concluído 1" width="220">
-</a>
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/68c628b108ewogICJsZWFybmVyQ05VTSIgOiAiODA2NDUwOFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMTRGMjY5MUUzQTMyIgp9210075f3cd-10">
-    <img src="certificados/ibm-skillsbuild-bdconcluído.png" alt="Certificado Concluído 2" width="220">
-</a>
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/b5651a99beewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9f55c3efc66-10">
-    <img src="certificados/ibm-skillsbuild-iwconcluído.png" alt="Certificado Concluído 3" width="220">
-</a>
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/0482708a0bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9714c688185-10">
-    <img src="certificados/ibm-skillsbuild-pticconcluído.png" alt="Certificado Concluído 4" width="220">
-</a>
-</div>
-<hr />
 
 <h1 align="center">👥 Grupos em que Participo</h1>
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/dudugigi2026-max.png" width="85">
-    </td>
-    <td align="center">
-      <img src="https://github.com/EduDaviJoaoGigi.png" width="85">
-    </td>
-  </tr>
+<tr>
 
- <tr>
-    <td align="center">
-      <a href="https://github.com/dudugigi2026-max">Dupla</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EduDaviJoaoGigi">Quarteto</a>
-    </td>
-  </tr>
+<td align="center">
+
+<img src="https://github.com/dudugigi2026-max.png" width="85">
+
+<br>
+
+<a href="https://github.com/dudugigi2026-max">
+Dupla
+</a>
+
+</td>
+
+<td align="center">
+
+<img src="https://github.com/EduDaviJoaoGigi.png" width="85">
+
+<br>
+
+<a href="https://github.com/EduDaviJoaoGigi">
+Quarteto
+</a>
+
+</td>
+
+</tr>
 </table>
-</div>
-  <hr />
 
-<h2 align="center">🚀 Projetos</h2>
+</div>
+
+---
+
+<h2 align="center" id="projetos">🚀 Projetos</h2>
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="33%">
 
-### 💻 Projeto 1
+<h3>💻 Projeto 1</h3>
 
-Descrição breve do projeto.
-
-<a href="#">
-<img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌱 Projeto 2
-
-Descrição breve do projeto.
+<p>Descrição breve do projeto.</p>
 
 <a href="#">
 <img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
@@ -128,9 +137,21 @@ Descrição breve do projeto.
 
 <td align="center" width="33%">
 
-### 🎮 Projeto 3
+<h3>🌱 Projeto 2</h3>
 
-Descrição breve do projeto.
+<p>Descrição breve do projeto.</p>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🎮 Projeto 3</h3>
+
+<p>Descrição breve do projeto.</p>
 
 <a href="#">
 <img src="https://img.shields.io/badge/Ver%20Projeto-007BFF?style=for-the-badge">
@@ -139,6 +160,7 @@ Descrição breve do projeto.
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -177,7 +199,7 @@ Descrição breve do projeto.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOehler2011&layout=compact&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koehler2011&layout=compact&theme=dark&hide_border=true">
 
 </div>
 
@@ -196,11 +218,11 @@ Descrição breve do projeto.
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/🌐%20Interfaces e Web 1-007BFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Interfaces%20e%20Web%201-007BFF?style=for-the-badge">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/💻%20Programação e Algoritmos%20Web-007BFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻%20Programação%20e%20Algoritmos%20Web-007BFF?style=for-the-badge">
 </a>
 
 </div>
@@ -211,7 +233,7 @@ Descrição breve do projeto.
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/Koehler2011">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
 </a>
 
@@ -223,17 +245,15 @@ Descrição breve do projeto.
 
 ---
 
-<h1 align="center"> 🐍 "Jogo da Cobrinha"</h1>
+<h1 align="center">🐍 "Jogo da Cobrinha"</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/output/github-snake-dark.svg" alt="Snake animation">
+
+<img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/output/github-snake-dark.svg" alt="Snake animation">
+
 </p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Koehler2011/Koehler2011/main/banner.png" width="100%">
-
-</hr>
+---
 
 <div align="center">
 
@@ -241,7 +261,7 @@ Descrição breve do projeto.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=007BFF">
+<img src="https://komarev.com/ghpvc/?username=Koehler2011&style=for-the-badge&color=007BFF">
 
 <br><br>
 
