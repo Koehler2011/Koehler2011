@@ -1,25 +1,4 @@
 
-<h1 align="center"> 💳 Emblemas/Certificados</h1>
-
-<div align="center">
-
-  <a href="https://skills.yourlearning.ibm.com/certificate/share/67b9949e2aewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp974ee412607-10">
-    <img src="certificados/ibm-skillsbuild-adconcluído.png" alt="Certificado Concluído 1" width="220">
-</a>
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/68c628b108ewogICJsZWFybmVyQ05VTSIgOiAiODA2NDUwOFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMTRGMjY5MUUzQTMyIgp9210075f3cd-10">
-    <img src="certificados/ibm-skillsbuild-bdconcluído.png" alt="Certificado Concluído 2" width="220">
-</a>
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/b5651a99beewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9f55c3efc66-10">
-    <img src="certificados/ibm-skillsbuild-iwconcluído.png" alt="Certificado Concluído 3" width="220">
-</a>
-
-<a href="https://skills.yourlearning.ibm.com/certificate/share/0482708a0bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9714c688185-10">
-    <img src="certificados/ibm-skillsbuild-pticconcluído.png" alt="Certificado Concluído 4" width="220">
-</a>
-</div>
-<hr />
 <h1 align="center">👥 Grupos em que Participo</h1>
 
 <div align="center">
@@ -97,6 +76,29 @@ Crio soluções web modernas e eficientes.
 
 </div>
 
+---
+
+<h1 align="center"> 💳 Emblemas/Certificados</h1>
+
+<div align="center">
+
+  <a href="https://skills.yourlearning.ibm.com/certificate/share/67b9949e2aewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp974ee412607-10">
+    <img src="certificados/ibm-skillsbuild-adconcluído.png" alt="Certificado Concluído 1" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/68c628b108ewogICJsZWFybmVyQ05VTSIgOiAiODA2NDUwOFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMTRGMjY5MUUzQTMyIgp9210075f3cd-10">
+    <img src="certificados/ibm-skillsbuild-bdconcluído.png" alt="Certificado Concluído 2" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/b5651a99beewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tODc0OUMwMkE3OEVDIgp9f55c3efc66-10">
+    <img src="certificados/ibm-skillsbuild-iwconcluído.png" alt="Certificado Concluído 3" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/0482708a0bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDY0NTA4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9714c688185-10">
+    <img src="certificados/ibm-skillsbuild-pticconcluído.png" alt="Certificado Concluído 4" width="220">
+</a>
+</div>
+<hr />
 ---
 
 <h2 align="center">🚀 Projetos</h2>
