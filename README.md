@@ -12,7 +12,7 @@ Aprendendo sobre tecnologia e programação.<br>
 Me esforço ao máximo!
 </p>
 
-<a href="#projetos">
+<a href="https://github.com/Koehler2011?tab=repositories">
 <img src="https://img.shields.io/badge/🚀%20Ver%20Projetos-007BFF?style=for-the-badge">
 </a>
 
