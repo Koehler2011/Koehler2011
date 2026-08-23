@@ -170,7 +170,7 @@ Quarteto
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/🤖%20Projetos de Tecnologia da Informação e Comunicação-007BFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🤖%20Projetos de Tecnologia de Informação e Comunicação-007BFF?style=for-the-badge">
 </a>
 
 </div>
