@@ -57,20 +57,6 @@ Me esforço ao máximo!
 
 <br>
 
-<div align="center">
-
-| Tecnologia | Nível |
-|:---:|:---:|
-| HTML | ⭐⭐⭐⭐ |
-| CSS | ⭐⭐ |
-| C++ | ⭐⭐⭐ |
-| JavaScript | ⭐ |
-| Python | ⭐⭐⭐ |
-| GIMP | ⭐⭐⭐ |
-| GitHub | ⭐⭐⭐⭐ |
-
-</div>
-
 ---
 
 <h1 align="center">💳 Emblemas / Certificados</h1>
