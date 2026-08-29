@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./fundo.png" width="50%">
+<img src="./fundo.png" width="80%">
 
 # 👋 Olá, eu sou Eduardo Koehler
 
