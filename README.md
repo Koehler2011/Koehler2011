@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./fundo.png" width="100%">
-
 # 👋 Olá, eu sou Eduardo Koehler
 
 ### 💻 Estudante de Informática
