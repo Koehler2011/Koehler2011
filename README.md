@@ -119,7 +119,7 @@ Quarteto
 
 ---
 
-<h2 align="center">📊 GitHub</h2>
+<h1 align="center">📊 GitHub</h1>
 
 <div align="center">
 
