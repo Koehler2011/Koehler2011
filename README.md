@@ -88,16 +88,6 @@ Me esforço ao máximo!
 <table>
 <tr>
 
-<td align="center">
-
-<img src="https://github.com/dudugigi2026-max.png" width="85">
-
-<br>
-
-<a href="https://github.com/dudugigi2026-max">
-Dupla
-</a>
-
 </td>
 
 <td align="center">
